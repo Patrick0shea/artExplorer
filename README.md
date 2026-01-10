@@ -1,9 +1,9 @@
-# Art-Explorer 🎨🎶📜
+# Art-Explorer 
 
 https://art-explorer-bice.vercel.app
 
 Discover a random poem, painting, or album every time you visit.  
-Let art, words, and music spark your creativity.
+
 
 ---
 
